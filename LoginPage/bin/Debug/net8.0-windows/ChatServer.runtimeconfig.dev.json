@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\daoua\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\daoua\\.nuget\\packages"
+    ]
+  }
+}
