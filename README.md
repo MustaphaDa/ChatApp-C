@@ -19,3 +19,6 @@ Developed a robust and user-friendly ChatApp using C# and the TCP/IP protocol, f
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/MustaphaDa/ChatApp.git
+## Contributions
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please create a pull request or submit an issue.
